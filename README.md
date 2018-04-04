@@ -11,4 +11,8 @@ Try to think about two specific areas:
 
 ![website-template](https://user-images.githubusercontent.com/20326406/38328619-af6c4130-384b-11e8-9821-90e9156e0c96.png)
 
-You will also notice that there is a header with menu, and a "footer" element with basic icons, and spacing. Jump into this and do whatever you think appropriate.
+You will also notice that there is a header with menu, and a "footer" element with basic icons, and spacing. Jump into this and do whatever you think appropriate. Make sure you push to this repository in stages, and keep the messages to the point.
+
+#### Make sure to have fun with this. We're sure you will do well.
+
+
