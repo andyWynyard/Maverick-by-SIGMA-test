@@ -15,4 +15,11 @@ You will also notice that there is a header with menu, and a "footer" element wi
 
 #### Make sure to have fun with this. We're sure you will do well.
 
+To get going: 
+1. Clone the repository, however you like, to your own repository.
+2. Build the app, in stages.
+3. Push out a final version, and let us know.
+
+## Happy building!!
+
 
