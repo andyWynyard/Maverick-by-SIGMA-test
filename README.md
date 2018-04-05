@@ -3,6 +3,9 @@ Small test application for Maverick by SIGMA.
 
 ---
 This is a little test application for you to build. It isnt so much to test your skill in programing, but more to see how you think through a problem. 
+
+Your task is to build a todo list that works. You should be able to add todo's and remove them. 
+
 __No framework should be used to build this,__ simple __HTML, CSS (SCSS) and JavaScript__ is to be used. However, as __jQuery__ is pretty much ubiquitous to JS, you can use that also. The example image below is to represent a super basic template, and you should use your creativity to build on this. 
 
 Try to think about two specific areas:
